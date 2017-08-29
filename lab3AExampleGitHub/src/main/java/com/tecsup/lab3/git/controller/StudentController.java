@@ -16,6 +16,6 @@ public class StudentController
 	private static void showMessage() {
 		
 		System.out.println("Mensaje de prueba!");
-		System.out.println("Mensaje 2");
+		System.out.println("Mensaje 24");
 	}
 }
